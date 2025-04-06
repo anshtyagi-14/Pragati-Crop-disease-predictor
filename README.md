@@ -9,7 +9,7 @@ AI-Driven Crop Disease Prediction and Management System
 
 ## Problem Statement
 
-Crop diseases can devastate yields, causing significant financial losses to farmers. Detecting these diseases early and intervening in time is essential for effective disease management. Current practices rely heavily on manual inspection, which is time-consuming, inefficient, and can miss early-stage diseases.
+The slow and inaccurate detection of plant disease, which is currently based on manual observation. This method is time-consuming, liable to human error, and is frequently not able to detect disease at early stages—resulting in lower crop yield and loss of money to farmers. 
 
 ### Objective
 
@@ -19,14 +19,20 @@ To develop an **AI-driven system** that uses crop images and environmental data 
 
 ## Solution Description
 
-The project focuses on building a **mobile and web-based application** that uses machine learning algorithms to identify crop diseases and offer treatment recommendations based on real-time data.
+Our solution is an AI-Driven Crop Disease Prediction and Management System, with the goal of transforming disease detection in agriculture. Contrary to traditional manual checks that are error-prone and time-consuming, our platform utilizes environmental data and AI to detect diseases at the early stage and provide customized interventions.
+
+The USP is the integration of computer vision with real-time environmental information to enable more accurate, contextual, and timely predictions. The platform has an easy-to-use mobile and web application for accessibility, even in rural locations. It enables farmers to have control through alerts on disease, treatment options, and preventive measures without the necessity of in-depth technical skills.
 
 ### Key Features:
-- **AI Image Analysis:** Uses computer vision models to analyze crop images uploaded by farmers and detect signs of diseases.
-- **Environmental Data Integration:** Considers environmental factors like temperature, humidity, and soil moisture to provide a more accurate disease prediction.
-- **Real-Time Alerts:** Sends notifications to farmers about potential disease outbreaks in their fields.
-- **Actionable Insights:** Provides detailed treatment plans and preventive measures tailored to specific crop diseases.
-- **User-Friendly Interface:** Both mobile and web applications designed for ease of use by farmers with varying tech skills.
+- AI-based disease detection via image upload
+- Integration with environmental and soil data
+- Real-time disease alerts and notifications
+- Tailored treatment and prevention plans
+- Farmer-friendly multilingual UI
+- Mobile and web application support
+- Offline data caching for poor connectivity
+- User history and crop diary for analytics
+
 
 ### Technologies Used:
 - **Frontend:** React Native for mobile, ReactJS for web
