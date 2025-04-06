@@ -1,12 +1,9 @@
-# SIH1638 - AI-Driven Crop Disease Prediction and Management System
+AI-Driven Crop Disease Prediction and Management System
 
 ## Overview
 
 **Project Name:** AI-Driven Crop Disease Prediction and Management System  
-**Track:** Agriculture, FoodTech & Rural Development  
-**Submitted for:** Smart India Hackathon (SIH) 2024  
-**Sponsored by:** Indian Council of Agricultural Research (ICAR)  
-**Ministry:** Ministry of Agriculture and Farmers Welfare
+**Track:** Agriculture, FoodTech & Rural Development   
 
 ---
 
@@ -54,47 +51,6 @@ The project focuses on building a **mobile and web-based application** that uses
 - **Node.js** and **npm** installed
 - **Python 3.x** with necessary machine learning libraries
 
-### Steps:
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Soumya-Chakraborty/SIH2024.git
-   cd SIH2024
-   ```
-
-2. **Install frontend dependencies:**
-   ```bash
-   cd client
-   npm install
-   ```
-
-3. **Install backend dependencies:**
-   ```bash
-   cd server
-   npm install
-   ```
-
-4. **Set up the Python environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # For Windows: venv\Scripts\activate
-   pip install -r requirements.txt
-   ```
-
-5. **Run the application:**
-   - Backend:
-     ```bash
-     cd server
-     npm start
-     ```
-
-   - Frontend (Web):
-     ```bash
-     cd client
-     npm start
-     ```
-
----
-
 ## Usage
 
 1. **Sign up/Login** to the application.
@@ -103,25 +59,3 @@ The project focuses on building a **mobile and web-based application** that uses
 4. **Receive Treatment Recommendations** based on the detected disease.
 
 ---
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m "Add new feature"`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For further information or queries, please reach out to us at:  
-**Project Lead:** Soumya Chakraborty  
-**Email:** [soumyachakraborty198181@gmail.com](mailto:soumyachakraborty198181@gmail.com)
